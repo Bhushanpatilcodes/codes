@@ -4,14 +4,14 @@ class Solution {
         m--;
         n--;
 
-        while(index >=0 && m >= 0 || n >=0){
+        while(index >= 0 && m >= 0 || n >= 0){
             if(m<0){
                 nums1[index] = nums2[n];
                 n--;
             }else if(n<0){
                 nums1[index] = nums1[m];
                 m--;
-            }else if (nums1[m] < nums2[n]){
+            }else if(nums1[m] < nums2[n]){
                 nums1[index] = nums2[n];
                 n--;
             }else{
