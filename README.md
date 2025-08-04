@@ -42,4 +42,9 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhushanpatilcodes/codes/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Bhushanpatilcodes/codes/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Bhushanpatilcodes/codes/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
