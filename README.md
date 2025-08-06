@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Bhushanpatilcodes/codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Bhushanpatilcodes/codes/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Bhushanpatilcodes/codes/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Bhushanpatilcodes/codes/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
