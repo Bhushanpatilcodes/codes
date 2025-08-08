@@ -61,4 +61,9 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Bhushanpatilcodes/codes/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhushanpatilcodes/codes/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhushanpatilcodes/codes/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
